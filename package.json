@@ -1,12 +1,12 @@
 {
-  "name": "parcel-project-template",
+  "name": "menu-page-js-10.git",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/IgorBulakh/p-parcel.git",
+  "homepage": "https://github.com/IgorBulakh/menu-page-js-10.git",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /p-parcel/"
+    "build": "parcel build src/*.html --public-url /menu-page-js-10.git/"
   },
   "repository": {
     "type": "git",
