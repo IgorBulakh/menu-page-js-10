@@ -13,4 +13,4 @@ module.exports=[{id:"XWaQXcbk0",name:"Картофель, запеченный �
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/templates.js"),require("./styles.css");
 },{"./js/templates.js":"NesY","./styles.css":"Tnu0"}]},{},["Focm"], null)
-//# sourceMappingURL=/menu-page-js-10.git/src.59a60e7b.js.map
+//# sourceMappingURL=/menu-page-js-10/src.59a60e7b.js.map
